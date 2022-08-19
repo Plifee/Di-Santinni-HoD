@@ -1,0 +1,12 @@
+hr{
+    margin: 0;
+}
+footer {
+    display: flex;
+    padding-left: 50%;
+	background:radial-gradient(black,white); 
+   	
+}
+.foto-back {
+    border-radius: 50px;
+}
